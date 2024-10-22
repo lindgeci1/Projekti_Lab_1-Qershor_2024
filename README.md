@@ -1,0 +1,1 @@
+# Projekti_Lab_1-Qershor_2024
