@@ -21,7 +21,7 @@ function CreateInsurance({ onClose }) {
     const navigate = useNavigate();
     const location = useLocation(); // Get location to access state
     const token = Cookies.get('token');
-
+// const navigate = useNavigate();
     const handleChange = (e) => {
         const { name, value } = e.target;
         setFormData((prevState) => ({
